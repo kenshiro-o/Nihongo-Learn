@@ -1,0 +1,23 @@
+{
+	"word": "おいしい",
+	"type": "adjective",
+	"meaning": "tasty",
+	"examples":[{
+		"example": "この　やさい　は　おいしい　です。",
+		"meaning": "These vegetables are tasty."
+		}],
+	"kanji":{
+		"word":"美味しい",
+		"components":[
+			{
+				"component":"美",
+				"meaning":	"beautiful"
+			},
+			{
+				"component":"味",
+				"meaning":	"flavor, taste"
+			}					
+		]
+	},
+	"meta":{}
+}
