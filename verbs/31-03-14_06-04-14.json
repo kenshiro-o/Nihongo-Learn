@@ -1,0 +1,13 @@
+{
+	"word": "たべます",
+	"type": "verb",
+	"meaning": "to eat",
+	"examples":[{
+		"example": "きょう　は　やさい　を　たべます。",
+		"meaning": "Today I am eating vegetables."
+		}],
+	"kanji":{},
+	"meta":{
+		"dictionary_form": "たべる"
+	}
+}
