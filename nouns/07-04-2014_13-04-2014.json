@@ -1,0 +1,19 @@
+{
+	"word": "おかね",
+	"type": "noun",
+	"meaning": "money",
+	"examples":[{
+		"example": "わたし　は　たくさん　おかね　が　あります。",
+		"meaning": "I have a lot of money."
+		}],
+	"kanji":{
+		"word":"お金",
+		"components":[
+			{
+				"component":"金",
+				"meaning":	"gold"
+			}
+		]
+		},
+	"meta":{}			
+}
