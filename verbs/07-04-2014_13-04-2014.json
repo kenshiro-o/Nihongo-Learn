@@ -1,0 +1,13 @@
+{
+	"word": "かきます",
+	"type": "verb",
+	"meaning": "to write",
+	"examples":[{
+		"example": "ともだち　に　てがみ　を　かきます。",
+		"meaning": "I am writing a letter to my friend."
+		}],
+	"kanji":{},
+	"meta":{
+		"dictionary_form": "かく"
+	}
+}
