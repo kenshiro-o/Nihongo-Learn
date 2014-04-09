@@ -1,0 +1,19 @@
+{
+	"word": "たかい",
+	"type": "adjective",
+	"meaning": "expensive, tall",
+	"examples":[{
+		"example": "この　とけい　は　たかい　です。",
+		"meaning": "This watch is expensive."
+		}],
+	"kanji":{
+		"word":"高い",
+		"components":[
+			{
+				"component":"高",
+				"meaning":	"high, tall, expensive"
+			}			
+		]
+	},
+	"meta":{}
+}
