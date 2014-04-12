@@ -16,4 +16,27 @@
 		]
 		},
 	"meta":{}			
+},
+{
+	"word": "ともだち",
+	"type": "noun",
+	"meaning": "friend",
+	"examples":[{
+		"example": "やまだーさん　は　ともだち　です。",
+		"meaning": "Mr Yamada is a friend."
+		}],
+	"kanji":{
+		"word":"友達",
+		"components":[
+			{
+				"component":"友",
+				"meaning":	"friend"
+			},
+			{
+				"component":"達",
+				"meaning":	"arrive"
+			}
+		]
+		},
+	"meta":{}			
 }
