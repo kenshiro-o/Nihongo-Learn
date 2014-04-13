@@ -10,4 +10,17 @@
 	"meta":{
 		"dictionary_form": "かく"
 	}
+},
+{
+	"word": "みます",
+	"type": "verb",
+	"meaning": "to see, watch",
+	"examples":[{
+		"example": "こんばん　えいが　を　みます。",
+		"meaning": "I am watching a movie tonight."
+		}],
+	"kanji":{},
+	"meta":{
+		"dictionary_form": "みる"
+	}
 }
