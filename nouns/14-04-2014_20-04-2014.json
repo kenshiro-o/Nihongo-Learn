@@ -8,4 +8,15 @@
 		}],
 	"kanji":{},
 	"meta":{}			
+},
+{
+	"word": "みず",
+	"type": "noun",
+	"meaning": "water",
+	"examples":[{
+		"example": "うみ　の　みず　は　きれい　です。",
+		"meaning": "The water from the sea is beautiful"
+		}],
+	"kanji":{},
+	"meta":{}			
 }
